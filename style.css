@@ -38,3 +38,8 @@ body{
 .ms_jumbo_margin{
     margin: 25px 0;
 }
+
+.prova{
+    min-height: 50px;
+    background-color: red;
+}
