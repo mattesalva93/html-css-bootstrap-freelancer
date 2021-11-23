@@ -20,3 +20,21 @@ body{
     background-color: #1ABC9C;
     padding-top: 35px;
 }
+.ms_jumbo_title{
+    margin: 20px 0;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.ms_whitebar{
+    background-color: white;
+    width: 80px;
+    height: 3px;
+    border-radius: 15px;
+    margin: 0 8px;
+}
+.fas.fa-star{
+    font-size: 2rem;
+}
+.ms_jumbo_margin{
+    margin: 25px 0;
+}
