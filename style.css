@@ -68,3 +68,29 @@ body{
     border-bottom: 1px solid #999;
     border-radius: 0;
 }
+.ms_sendbuttoncolor{
+    background-color: #1ABC9C;
+    border: none;
+}
+
+    /*Inizio footer top*/
+
+.ms_footer_up{
+    background-color: #3A546D;
+}
+.ms_social-icons i{
+    color: white;
+    border: solid 1px white;
+    padding: 15px;
+    border-radius: 50%;
+}
+.ms_social-icons .fab.fa-facebook-f, 
+.ms_social-icons .fab.fa-linkedin-in{
+    padding: 15px 17px;
+}
+    /*Inizio footer bot*/
+
+.ms_footer_bot{
+    background-color: #2C3E50;
+    min-height: 100px;
+}
