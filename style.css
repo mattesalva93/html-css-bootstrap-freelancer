@@ -60,3 +60,11 @@ body{
     border: 1px white solid;
     color: white;
 }
+
+    /*Inizio sezione form*/
+
+.ms_form_borderstyle{
+    border: none;
+    border-bottom: 1px solid #999;
+    border-radius: 0;
+}
