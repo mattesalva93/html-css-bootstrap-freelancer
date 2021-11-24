@@ -2,17 +2,15 @@ body{
     color:white;
 }
 
+    /*Inizio navbar*/
+
 .ms_head_row{
     background-color: #2C3E50;
+    min-height: 75px;
 }
 
 .ms_head_row a{
     color: white;
-}
-
-.ms_jumbo_row{
-    background-color: #1ABC9C;
-    padding-top: 35px;
 }
 
 .ms_navbartoggle_color{
@@ -20,22 +18,29 @@ body{
     border-color: #999;
 }
 
-.fas.fa-bars{
-    margin-top: 5px;
+    /*Inizio sezione avatar*/
+
+.ms_jumbo_color{
+    background-color: #1ABC9C;
 }
+
 .ms_whitebar{
     background-color: white;
-    width: 80px;
+    width: 70px;
     height: 3px;
     border-radius: 15px;
     margin: 0 8px;
 }
 
 .fas.fa-star{
-    font-size: 2rem;
+    font-size: 1.5rem;
 }
 
-.ms_jumbo_margin{
-    margin: 25px 0;
-}
+/*Inizio sezione portfolio*/
 
+.ms_rowcolor_black{
+    color:black
+}
+.ms_rowcolor_black .ms_whitebar{
+    background-color: black;
+}
