@@ -4,26 +4,24 @@ body{
 
 .ms_head_row{
     background-color: #2C3E50;
-    min-height: 75px;
 }
 
-.fas.fa-bars{
-    color:#888888;
-    padding: 5px 12px;
-    border: 1px solid white;
-    border-radius: 3px;
+.ms_head_row a{
+    color: white;
 }
-.ms_head_title{
-    font-weight: bold;
-}
+
 .ms_jumbo_row{
     background-color: #1ABC9C;
     padding-top: 35px;
 }
-.ms_jumbo_title{
-    margin: 20px 0;
-    font-size: 2.5rem;
-    font-weight: bold;
+
+.ms_navbartoggle_color{
+    color: #999;
+    border-color: #999;
+}
+
+.fas.fa-bars{
+    margin-top: 5px;
 }
 .ms_whitebar{
     background-color: white;
@@ -32,14 +30,12 @@ body{
     border-radius: 15px;
     margin: 0 8px;
 }
+
 .fas.fa-star{
     font-size: 2rem;
 }
+
 .ms_jumbo_margin{
     margin: 25px 0;
 }
 
-.prova{
-    min-height: 50px;
-    background-color: red;
-}
