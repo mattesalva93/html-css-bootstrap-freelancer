@@ -26,7 +26,7 @@ body{
 
 .ms_whitebar{
     background-color: white;
-    width: 70px;
+    min-width: 75px;
     height: 3px;
     border-radius: 15px;
     margin: 0 8px;
@@ -36,11 +36,19 @@ body{
     font-size: 1.5rem;
 }
 
-/*Inizio sezione portfolio*/
+    /*Inizio sezione portfolio*/
 
 .ms_rowcolor_black{
     color:black
 }
 .ms_rowcolor_black .ms_whitebar{
     background-color: black;
+}
+
+    /*Sezione immagini portfolio*/
+
+.ms_imgstyle{
+    border-radius: 10px;
+    width: 100%;
+    height: 100%;
 }
